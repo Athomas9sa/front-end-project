@@ -36,16 +36,17 @@ And choices on what to add into our project.
 ## Credits
 
 -GetEstablishments and Spinners by Brittany:
-  link:
+  link: https://github.com/brittani-ericksen
 
 -JavaScript Function by Chris:
-  link:
+  link: https://github.com/chrisowensdev
+
 
 -OpenModal and BulmaCard Designs by Aliyah:
-  link:
+  link: https://github.com/AGamble7
 
 -Layout and Desing by Annemarie:
-  link:
+  link: https://github.com/Athomas9sa
 
 ## API References
 
